@@ -7,7 +7,7 @@
        src="three.min.js">
     </script>
     <script
-       src= "main2.js">
+       src= "main.js">
     </script>
     <script>
       main();
